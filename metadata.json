@@ -1,0 +1,7 @@
+{
+  "name": "رسالة الطمأنينة",
+  "description": "تطبيق لتحديث كشوفات السلامة وإضافة الأسماء تلقائياً بالترقيم التالي مع زر نسخ سريع",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
